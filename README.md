@@ -15,3 +15,8 @@ When the user chooses to add a role they are prompted to enter the name, salary,
 When the user chooses to add an employee they are prompted to enter the employee’s first name, last name, role, and their manager, and then that employee is added to the database.
 
 When the user chooses to update an employee role they are prompted to select an employee to update as well as their new role and then this information is updated in the database.
+
+<img width="868" alt="Screen Shot 2022-02-15 at 9 49 29 PM" src="https://user-images.githubusercontent.com/94794961/154186975-cefd8cf3-1ca8-4928-8761-bc01b630cfcf.png">
+
+Link to Video
+https://watch.screencastify.com/v/mqAltroxSv16IJNG2sUu
